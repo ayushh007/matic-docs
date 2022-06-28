@@ -14,3 +14,10 @@ keywords:
 image: https://matic.network/banners/matic-network-16x9.png
 slug: how-to-translate
 ---
+
+:::info Page is being updated
+
+Please see the **[Docusaurus guide](https://docusaurus.io/docs/i18n/crowdin#translate-the-sources)**
+in the meantime.
+
+:::

@@ -1,7 +1,7 @@
 ---
 id: tutorial-template
 title: General Tutorial Template
-sidebar_label: Tutorial Template
+sidebar_label: Tutorial template
 description: Follow the tutorial template when writing a technical tutorial.
 keywords:
   - docs

@@ -574,9 +574,8 @@ module.exports = {
   contribute: [
     {
       type: "category",
-      label: "Before Contributing",
+      label: "Become a Contributor",
       items: [
-        "contribute/orientation",
         "contribute/contributor-guidelines",
         "contribute/bug-bounty-program",
         "contribute/wiki-maintainers",
@@ -587,17 +586,7 @@ module.exports = {
       label: "Style Guide",
       items: [
         "contribute/writing-style",
-        "contribute/writing-resources",
-      ],
-    },
-    {
-      type: "category",
-      label: "Content Guide",
-      items: [
         "contribute/tutorial-template",
-        "contribute/api-docs",
-        "contribute/process-docs",
-        "contribute/product-docs",
       ],
     },
     {

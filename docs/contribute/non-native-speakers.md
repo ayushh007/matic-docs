@@ -1,7 +1,7 @@
 ---
 id: non-native-speakers
 title: Non-native Speakers
-sidebar_label: Non-native Speakers
+sidebar_label: Non-native speakers
 description: Learn how to contribute to the Polygon Wiki as a non-native speaker.
 keywords:
   - docs

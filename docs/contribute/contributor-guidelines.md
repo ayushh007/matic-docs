@@ -37,7 +37,7 @@ There are several ways to identify an area where you can contribute to the Wiki:
   - Sample PR: https://github.com/maticnetwork/matic-docs/pull/360
     > If you are adding a new document, it is recommended to just have a basic summary/introduction and a link to your github or documentation for more details.
 
-## Git Rules
+## Git rules
 
 We use `gitchangelog` for all of our repos for change logs. For that, we need to 
 follow the following convention for commit message. There will be no merge if you are 

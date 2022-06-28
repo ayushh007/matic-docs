@@ -20,7 +20,7 @@ on the style conventions to use when developing documentation for the Polygon Wi
 The goal of this guide is to help contributors write content that is clear, concise, 
 and consistent. The Polygon team treats the Polygon Wiki as an official Docs product.
 
-## Primary Guidelines
+## Primary guidelines
 
 We believe one of the things that makes Polygon special is its coherent design and we 
 seek to retain this defining characteristic. The Polygon team treats the Polygon Wiki 
